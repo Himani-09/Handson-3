@@ -1,0 +1,172 @@
+body{
+    background-color: rgb(93, 91, 91);
+  }
+  
+  .parent{
+    border: 7px solid green;
+    height: 650px;
+    width: 100;
+    position: relative;
+  }
+  
+  .opening{
+    width: 450px;
+    height: 150px;
+    border : 5px solid red;
+    border-radius: 15px;
+    text-align: center;
+    color: maroon;
+    line-height: 35px;
+    position: relative;
+    left: 500px;
+    background-color: white;
+    text-shadow: 2px 2px 3px maroon;
+    font-style: italic;
+  
+  }
+
+  .box{
+    box-shadow: 5px 5px 0 purple;
+  
+  }
+
+  .box1{
+    height: 210px;
+    width: 230px;
+    border: 5px solid red;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    line-height: 35px;
+    color: black;
+    font-weight: bolder;
+    font-size: 25px;
+    text-shadow: 2px 2px 3px maroon;
+  
+  }
+
+  .image{
+    height: 210px;
+    width: 230px;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: white;
+    background-image: url("image.jpg");
+    background-size: cover;
+    position: absolute;
+    right: 50px;
+    top: 0;
+  } 
+
+  .box2{
+    height: 250px;
+    width: 230px;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: white;
+    line-height: 35px;
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    bottom: 50px;
+    text-shadow: 2px 2px 3px maroon;
+  }
+  
+  .box3{
+    height: 250px;
+    width: 230px;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: white;
+    line-height: 35px;
+    color: black;
+    font-weight: bolder;
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 3px maroon;
+  }
+
+  .click{
+    height: 20px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: red;
+  
+  }
+  
+  .offer{
+    width: 550px;
+    height: 100px;
+    border: red solid 5px;
+    border-radius: 25px;
+    padding: -10%;
+    background-color: rgb(6, 247, 6);
+    position: fixed;
+    top: 400px;
+    left: 500px;
+  }
+   
+  .box7{
+     position: absolute;
+     right: 20px;
+     top: 10px;
+     color: maroon;
+     text-align: center;
+  }
+
+  .box8{
+    position: absolute;
+    left: 30px;
+    top: 10px;
+     color: maroon;
+     text-align: center;
+  }
+  
+  .table{
+    height: 600px;
+    width: 620px;
+    border: 5px solid purple;
+    background-color: green;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: 450px;
+  }
+
+  .box4{
+    height: 220px;
+    width: 300px;
+    background-color: #CFFF8D;
+    position: absolute;
+    left: 5px;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 25px;
+  
+  }
+  
+  .box5{
+    height: 220px;
+    width: 300px;
+    background-color: #CFFF8D;
+    position: absolute;
+    right: 5px;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 25px;
+  }
+
+  .box6{
+    width: 620px;
+    height: 220px;
+    background-color: #CFFF8D;
+    position: absolute;
+    top: 320px;
+    left: 5px;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 25px;
+  }
+  
